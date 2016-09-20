@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">AI Composer</string>
+
+    <string name="social_list">Social List</string>
+    <string name="my_compose_list">My Composition</string>
+
+    <string name="utilization_agreement">Terms of Use</string>
+    <string name="detail">Details</string>
+    <string name="personal_info">Privacy Statement</string>
+
+    <string name="welcome_msg">Welcome</string>
+
+    <string name="teach">Teach to AI</string>
+    <string name="compose">Composition</string>
+    <string name="my_ai_info">My A.I</string>
+
+    <string name="write_post">Post Contents</string>
+    <string name="inquiry">Inquiry</string>
+
+    <string name="other">Others</string>
+
+    <string name="software_info">Software Information</string>
+
+    <string name="already_have">Do you have account already?</string>
+    <string name="login">Login</string>
+
+    <string name="sociallist_title">Social List</string>
+    <string name="login_title">Sign In</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="agreement_title">Terms of Use</string>
+    <string name="personal_title">Privacy Statement</string>
+
+    <string name="nickname">Nickname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">PW Confirm</string>
+
+    <string name="agreement_join"><u>Terms of Use</u></string>
+    <string name="personal_join"><u>Privacy Stetement</u></string>
+    <string name="join_mit">and</string>
+    <string name="join_agree"></string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_pw">Password</string>
+    <string name="hint_pwconfirm">PW Confirm</string>
+    <string name="hint_nickname">Nickname</string>
+
+    <string name="composer_info">Composer Info.</string>
+    <string name="recommend">Recommend to friend</string>
+
+    <string name="recommend_kakao">Recommend to Kakaotalk</string>
+
+    <string name="setting">Settings</string>
+    <string name="qna">Inquiry</string>
+
+    <string name="email_hint">Enter your Email.</string>
+    <string name="nickname_hint">Enter your Nickname.</string>
+
+    <!-- Button Item String -->
+    <string name="join_before_button">No Account?</string>
+    <string name="join_btn"><u>Register the account.</u></string>
+    <string name="login_msg">Login using Social Service</string>
+
+    <!-- Theme Text -->
+    <string name="travel_theme">Travel</string>
+    <string name="sleep_theme">Before Sleep</string>
+    <string name="title_activity_sociallist">SociallistActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="account_info">Account</string>
+    <string name="account_email">Email</string>
+    <string name="account_nickname">Nickname</string>
+
+
+    <string name="setting_title">Settings</string>
+    <string name="setting_account">Account</string>
+    <string name="setting_nickname">Nickname</string>
+    <string name="setting_email">Email</string>
+    <string name="setting_accountsetting">Account Settings</string>
+    <string name="setting_other">Others</string>
+    <string name="setting_agreement">Terms of Use</string>
+    <string name="setting_personal">Privacy Statement</string>
+    <string name="setting_review">Leave review to Store</string>
+    <string name="setting_remove">Withdraw</string>
+    <string name="setting_credit">Developer</string>
+
+    <string name="setting_account_title">Account Settings</string>
+    <string name="setting_account_changeemail">Change Email</string>
+    <string name="setting_account_changeemail_summary">Change the email account.</string>
+    <string name="setting_account_changenickname_summary">Change the nickname.</string>
+    <string name="setting_account_changenickname">Change Nickname</string>
+    <string name="setting_account_deviceinfo">Access Device Information</string>
+    <string name="setting_account_logout">Logout</string>
+
+    <string name="sociallist_download">Download</string>
+    <string name="sociallist_favorite">Like</string>
+    <string name="facebook_app_id" translatable="false">1774860016126667</string>
+
+    <string name="toast_exit_msg">Press back button again for exit.</string>
+
+    <string name="download_msg">We will use cellular data for download. If the Wi-Fi environment, you may experience data call. Do you want to continue?</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_yes">YES</string>
+    <string name="dialog_continue">CONTINUE</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_no">NO</string>
+    <string name="dialog_back">BACK</string>
+
+    <string name="dialog_title_download">Download Music</string>
+
+    <string name="withdraw_title">Withdraw</string>
+    <string name="details_title">Details</string>
+
+    <string name="account_del_msg">If you leave the account list, composed music list and artificial intelligence learning data will be deleted. Are you sure you want to leave?</string>
+    <string name="account_del_stop">[Please check before you leave!]\n\n- If you want to change your email, go to [Settings - Account Settings].\n\n- If inconveniences occurred during the service, please contact us.</string>
+    <string name="account_del_btn">Withdraw Account</string>
+
+    <string name="details_email">E-mail</string>
+    <string name="details_nickname">Nickname</string>
+    <string name="details_theme">Theme</string>
+    <string name="details_favoriteCnt">Like Count</string>
+
+    <string name="join_text">Sign-Up</string>
+    <!--    -->
+
+    <string name="logout_success">Logout Success.</string>
+
+    <string name="post_upload">Post</string>
+
+    <string name="post_title">Enter the title...</string>
+    <string name="post_contents">Explain about music.</string>
+    <string name="post_musicselect">Select music.</string>
+    <string name="post_themeselect">Select theme.</string>
+
+    <string name="makemusic_name">Enter the music title.</string>
+    <string name="makemusic_motive_name">Please enter the song title motif.</string>
+    <string name="makemusic_upload">Composition Request</string>
+
+    <string name="music_theme_1">Travel</string>
+    <string name="music_theme_2">Before Sleeping</string>
+    <string name="music_theme_3">Silent Music</string>
+    <string name="music_theme_4">When you do not have one</string>
+
+    <string name="mylist_title">My Composition Music List</string>
+    <string name="teach_upload">Teach to AI</string>
+
+    <string name="music_titleexplain">Enter the music title.</string>
+    <string name="motive_music_explain">Enter the song title motif.</string>
+    <string name="music_beatexplain">You can set the tempo of the music in 16 levels.</string>
+    <string name="music_pitchexplain">You can set the average pitch of the music.</string>
+
+    <string name="music_title">Music Title</string>
+    <string name="motive_music_title">Music title Motif</string>
+    <string name="music_beat">Music Tempo</string>
+    <string name="music_pitch">Music Pitch</string>
+    <string name="music_fast">Speed</string>
+    <string name="music_slow">Slow</string>
+    <string name="music_pitch_high">High</string>
+    <string name="music_pitch_low">Low</string>
+    <string name="music_dangye">Level</string>
+    <string name="music_jung">/</string>
+
+    <string name="compose_dialogtitle">Composition Request</string>
+    <string name="compose_dialogcontent">Request a written based on the following information to the AI server. You have entered the correct value?</string>
+    <string name="compose_dialogerror">The music title is empty. Please enter the title.</string>
+    <string name="compose_dialogerror_title">Item Input Error</string>
+    <string name="compose_dialog_musictitle">Title : </string>
+    <string name="compose_dialog_musicbeat">Tempo : </string>
+    <string name="compose_dialog_musicpitch">Pitch : </string>
+    <string name="compose_complete_message">Your request has been sent.\nAfter a while, you can check the list.</string>
+
+    <string name="ready_service">The current service preparation..</string>
+
+    <string name="social_signup_input_error_title">Input Error</string>
+    <string name="social_signup_input_error">Enter Email or Nickname.</string>
+    <string name="social_signup_check_title">Terms and conditions agreed Check</string>
+    <string name="social_signup_check">Please check the terms and conditions agreed.</string>
+    <string name="social_signup_success">Sign-Up Complete. Please login again.</string>
+
+    <string name="signup_input_error_title">Input Erorr</string>
+    <string name="signup_input_error">Enter all things.</string>
+    <string name="signup_check_title">Terms and conditions agreed Check</string>
+    <string name="signup_check">Please check the terms and conditions agreed.</string>
+    <string name="signup_password_equal_error_title">Password Mismatch</string>
+    <string name="signup_password_equal_error">Passwords do not match.</string>
+    <string name="signup_success">Sign-Up Complete. Please login again.</string>
+    <string name="signup_nick_error_title">Nickname Error</string>
+    <string name="signup_nick_error">Nickname is already in use.</string>
+    <string name="signup_id_error_title">Email Error</string>
+    <string name="signup_id_error">Email is already in use.</string>
+
+    <string name="login_error_3040_title">Unknown Error</string>
+    <string name="login_error_3040">Unknown Error Occurred. Inquire to Call Center.(3040)</string>
+
+    <string name="login_error_3041_title">Login Error</string>
+    <string name="login_error_3041">Id or Password is incorrect.(3040)</string>
+
+    <string name="login_error_3042_title">Not registered User</string>
+    <string name="login_error_3042">Not registered user.(3042)</string>
+
+    <string name="welcome_social">Welcome to AI Composer. Sign-Up is needed.</string>
+
+    <string name="server_connection_error">Timeout. Try Again.</string>
+
+    <string name="post_nomusic_title">No composed music</string>
+    <string name="post_nomusic">No composed music. Compose any music.</string>
+
+    <string name="post_success_title">Posting Complete</string>
+    <string name="post_success">Posting Complete</string>
+
+    <string name="post_fail_3147_title">Post Failure</string>
+    <string name="post_fail_3147">Error Occurred while posting</string>
+
+    <string name="post_fail_3140_title">Unknown Error</string>
+    <string name="post_fail_3140">Unknown Error Occurred. Inquire to Call Center (3140)</string>
+
+    <!-- Credit Strings -->
+
+    <string name="credit_plan">Planning-Design</string>
+    <string name="credit_plan_content">Kim Taein\nSoongsil University\nDepartment of Computer Science\n\nLee Seokchan\nSoongsil University\nDepartment of Computer Science</string>
+
+    <string name="credit_client_dev">Client Developer</string>
+    <string name="credit_client_dev_content">Kim Taein\nSoongsil University\nDepartment of Computer Science</string>
+
+    <string name="credit_webserver_dev">Web Server Developer</string>
+    <string name="credit_webserver_dev_content">Lee Chaeil(IT Snowball)</string>
+
+    <string name="credit_aiserver_dev">AI Server Developer</string>
+    <string name="credit_aiserver_dev_content">Lee Seokchan\nSoongsil University\nDepartment of Computer Science</string>
+
+    <string name="credit_producer">Support</string>
+    <string name="credit_producer_content">Kim Duckkyu (IT Snowball)</string>
+
+    <string name="credit_title">Developer</string>
+</resources>

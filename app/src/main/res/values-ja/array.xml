@@ -1,0 +1,26 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <string-array name="music_theme">
+        <item>寝る前に</item>
+        <item>旅行を去るとき</item>
+        <item>憂鬱な時</item>
+        <item>パーティーを楽しむとき</item>
+        <item>応援するとき</item>
+        <item>うんざりするとき</item>
+        <item>勉強するとき</item>
+        <item>運転時</item>
+        <item>考えにロックされる</item>
+    </string-array>
+
+    <string-array name="music_genre">
+        <item>ポップ</item>
+        <item>ヒップホップ</item>
+        <item>RnB</item>
+        <item>エレクトロニック</item>
+        <item>ロック</item>
+        <item>メタル</item>
+        <item>ジャズ</item>
+        <item>クラシック</item>
+        <item>ニューエイジ</item>
+    </string-array>
+</resources>

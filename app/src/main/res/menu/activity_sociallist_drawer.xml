@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/info_nav"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="@string/my_ai_info" />
+        <item
+            android:id="@+id/mylist_nav"
+            android:icon="@drawable/ic_queue_music_black_24dp"
+            android:title="@string/my_compose_list" />
+        <item
+            android:id="@+id/sociallist_nav"
+            android:icon="@drawable/ic_timeline_black_24dp"
+            android:title="@string/social_list" />
+    </group>
+
+    <item android:title="@string/recommend">
+        <menu>
+            <item
+                android:id="@+id/reckakao_nav"
+                android:icon="@drawable/kakao_account_logo"
+                android:title="@string/recommend_kakao" />
+        </menu>
+    </item>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/settings_nav"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/setting" />
+            <item
+                android:id="@+id/inquiry_nav"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="@string/inquiry" />
+            <item
+                android:id="@+id/logout_nav"
+                android:icon="@drawable/ic_cancel_black_24dp"
+                android:title="@string/setting_account_logout" />
+        </menu>
+    </item>
+
+
+</menu>

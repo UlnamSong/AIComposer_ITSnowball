@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">人工知能 作曲家</string>
+
+    <string name="social_list">ソーシャルリスト</string>
+    <string name="my_compose_list">作曲リスト</string>
+
+    <string name="utilization_agreement">利用規約</string>
+    <string name="detail">詳細</string>
+    <string name="personal_info">個人情報の取り扱いについて</string>
+
+    <string name="welcome_msg">ようこそ</string>
+
+    <string name="teach">学習</string>
+    <string name="compose">音楽を作る</string>
+    <string name="my_ai_info">私の人工知能</string>
+
+    <string name="write_post">投稿書き込み</string>
+    <string name="inquiry">お問い合わせ</string>
+
+    <string name="other">その他</string>
+
+    <string name="software_info">ソフトウェア情報</string>
+
+    <string name="already_have">アカウントをお持ちですか？</string>
+    <string name="login">ログイン</string>
+
+    <string name="sociallist_title">ソーシャルリスト</string>
+    <string name="login_title">ログイン</string>
+    <string name="signup_title">会員登録する</string>
+    <string name="agreement_title">利用規約</string>
+    <string name="personal_title">個人情報の取り扱いについて</string>
+
+    <string name="nickname">ニックネーム</string>
+    <string name="email">メール</string>
+    <string name="password">パスワード</string>
+    <string name="password_confirm">パスワードの確認</string>
+
+    <string name="agreement_join"><u>利用規約</u></string>
+    <string name="personal_join"><u>個人情報の取り扱いについて</u></string>
+    <string name="join_mit">と</string>
+    <string name="join_agree">に同意する</string>
+
+    <string name="hint_email">メール入力</string>
+    <string name="hint_pw">パスワードを入力</string>
+    <string name="hint_pwconfirm">パスワードの再入力</string>
+    <string name="hint_nickname">ニックネームを入力</string>
+
+    <string name="composer_info">作曲家情報</string>
+    <string name="recommend">友達に推薦する</string>
+
+    <string name="recommend_kakao">カカオトークに推薦する</string>
+
+    <string name="setting">設定</string>
+    <string name="qna">お問い合わせ</string>
+
+    <string name="email_hint">メールアドレスを入力してください。</string>
+    <string name="nickname_hint">ニックネームを入力してください。</string>
+
+    <!-- Button Item String -->
+    <string name="join_before_button">まだアカウントを持ってませんか？</string>
+    <string name="join_btn"><u>アカウントを登録してください。</u></string>
+    <string name="login_msg">ソーシャルサービスを使用してログインしてください。</string>
+
+    <!-- Theme Text -->
+    <string name="travel_theme">旅行を去るとき</string>
+    <string name="sleep_theme">睡眠寝る前</string>
+    <string name="title_activity_sociallist">ソーシャルリスト</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">設定</string>
+
+
+    <string name="account_info">アカウント</string>
+    <string name="account_email">メール</string>
+    <string name="account_nickname">ニックネーム</string>
+
+
+    <string name="setting_title">設定</string>
+    <string name="setting_account">アカウント</string>
+    <string name="setting_nickname">ニックネーム</string>
+    <string name="setting_email">メール</string>
+    <string name="setting_accountsetting">アカウント 設定</string>
+    <string name="setting_other">その他</string>
+    <string name="setting_agreement">利用規約</string>
+    <string name="setting_personal">個人情報の取り扱いについて</string>
+    <string name="setting_review">ストアにレビューを残す</string>
+    <string name="setting_remove">脱退</string>
+    <string name="setting_credit">作成された人々</string>
+
+    <string name="setting_account_title">アカウント 設定</string>
+    <string name="setting_account_changeemail">メールの変更</string>
+    <string name="setting_account_changeemail_summary">電子メールアカウントを変更します。</string>
+    <string name="setting_account_changenickname_summary">ニックネームを変更します。</string>
+    <string name="setting_account_changenickname">ニックネームの変更</string>
+    <string name="setting_account_deviceinfo">接続機器情報</string>
+    <string name="setting_account_logout">ログアウト</string>
+
+    <string name="sociallist_download">ダウンロード</string>
+    <string name="sociallist_favorite">良い</string>
+
+    <string name="toast_exit_msg">アプリを終了するには、[戻る]ボタンをもう一度押してください。</string>
+
+    <string name="download_msg">音楽のダウンロードのためにデータを使用します。 Wi-Fi環境がない場合は、データ通話料が発生することがあります。 続行しますか？</string>
+    <string name="dialog_ok">確認</string>
+    <string name="dialog_yes">はい</string>
+    <string name="dialog_continue">続行</string>
+    <string name="dialog_cancel">キャンセル</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_back">バック</string>
+
+    <string name="dialog_title_download">音楽ダウンロード</string>
+
+    <string name="withdraw_title">脱退</string>
+    <string name="details_title">詳細</string>
+
+    <string name="account_del_msg">アカウントのリストを残す場合は、コンポジションのリストが削除されます。 作曲したすべての曲の著作権は、人工知能の作曲家に帰属します。本当に脱退しますか？</string>
+    <string name="account_del_stop">[脱退する前に確認してください！]\n\n- メールアドレスを変更するには、[設定 - アカウントの設定]を介してすることができます。\n\n- サービス利用に発生した不具合については、お問い合わせにお問い合わせいただければ幸いです。</string>
+    <string name="account_del_btn">アカウント脱退する</string>
+
+    <string name="details_email">メール</string>
+    <string name="details_nickname">ニックネーム</string>
+    <string name="details_theme">テーマ</string>
+    <string name="details_favoriteCnt">良いこと</string>
+
+    <string name="join_text">会員登録</string>
+
+    <string name="logout_success">ログアウトされました。</string>
+
+    <string name="post_upload">投稿</string>
+
+    <string name="post_title">タイトルを入力してください。</string>
+    <string name="post_contents">歌について説明してください。</string>
+    <string name="post_musicselect">音楽を選択してください。</string>
+    <string name="post_themeselect">テーマを選択してください。</string>
+
+    <string name="makemusic_name">曲のタイトルを指定してください。</string>
+    <string name="makemusic_motive_name">モチーフ曲のタイトルを指定してください。</string>
+    <string name="makemusic_upload">作曲依頼</string>
+
+    <string name="music_theme_1">旅行を去るとき</string>
+    <string name="music_theme_2">寝る前に</string>
+    <string name="music_theme_3">穏やかな音楽をしたいとき</string>
+    <string name="music_theme_4">することがないとき</string>
+
+    <string name="mylist_title">私の作曲のリスト</string>
+    <string name="teach_upload">学習させる</string>
+
+    <string name="music_titleexplain">音楽のタイトルを付けてください。</string>
+    <string name="motive_music_explain">モチーフとなる曲のタイトルを入力してください。</string>
+    <string name="music_beatexplain">音楽の速さを16段階で設定することができます。</string>
+    <string name="music_pitchexplain">音楽の平均ピッチを設定することができます。</string>
+
+    <string name="music_title">音楽のタイトル</string>
+    <string name="motive_music_title">モチーフ曲のタイトル</string>
+    <string name="music_beat">音楽の速さ</string>
+    <string name="music_pitch">音の高低程度</string>
+    <string name="music_fast">すぐに</string>
+    <string name="music_slow">ゆっくり</string>
+    <string name="music_pitch_high">高く</string>
+    <string name="music_pitch_low">低く</string>
+    <string name="music_dangye">レベル</string>
+    <string name="music_jung">/</string>
+
+    <string name="compose_dialogtitle">作曲依頼</string>
+    <string name="compose_dialogcontent">人工知能サーバーに以下の内容をもとに、作曲を要求します。正しい値を入力しました。</string>
+    <string name="compose_dialogerror">音楽のタイトルが空です。タイトルを入力してください。</string>
+    <string name="compose_dialogerror_title">項目の入力エラー</string>
+    <string name="compose_dialog_musictitle">タイトル : </string>
+    <string name="compose_dialog_musicbeat">早い : </string>
+    <string name="compose_dialog_musicpitch">ピッチ : </string>
+    <string name="compose_complete_message">リクエストが送信されました。\nしばらくしてリストから確認することができます。</string>
+
+    <string name="ready_service">現在のサービス準備中です。</string>
+
+    <string name="social_signup_input_error_title">入力エラー</string>
+    <string name="social_signup_input_error">Eメールまたはニックネームを入力してください。</string>
+    <string name="social_signup_check_title">利用規約に同意のチェック</string>
+    <string name="social_signup_check">利用規約に同意のチェックしてください。</string>
+    <string name="social_signup_success">登録完了しました。再度ログインしてください。</string>
+
+    <string name="signup_input_error_title">入力エラー</string>
+    <string name="signup_input_error">すべての項目を入力してください。</string>
+    <string name="signup_check_title">利用規約に同意のチェック</string>
+    <string name="signup_check">利用規約に同意のチェックしてください。</string>
+    <string name="signup_password_equal_error_title">パスワードの不一致</string>
+    <string name="signup_password_equal_error">パスワードが一致しません。</string>
+    <string name="signup_success">登録完了しました。再度ログインしてください。</string>
+    <string name="signup_nick_error_title">ニックネームエラー</string>
+    <string name="signup_nick_error">既に使用されているニックネームです。</string>
+    <string name="signup_id_error_title">メールエラー</string>
+    <string name="signup_id_error">既に使用されているメールです。</string>
+
+    <string name="login_error_3040_title">不明なエラー</string>
+    <string name="login_error_3040">不明なエラーが発生しました。お客様センターにお問い合わせください。(3040)</string>
+
+    <string name="login_error_3041_title">ログインエラー</string>
+    <string name="login_error_3041">ユーザ名あるいはパスワードが一致しません。(3040)</string>
+
+    <string name="login_error_3042_title">登録されていないユーザー</string>
+    <string name="login_error_3042">登録されていないユーザーです。(3042)</string>
+
+    <string name="welcome_social">人工知能の作曲家にようこそ。最初のログイン時に登録する必要があります。</string>
+
+    <string name="server_connection_error">サーバーとの接続がタイムアウトしました。再試行してください。</string>
+
+    <string name="post_nomusic_title">作曲音楽なし</string>
+    <string name="post_nomusic">作曲された音楽がありません。音楽を作曲します。</string>
+
+    <string name="post_success_title">作成完了</string>
+    <string name="post_success">投稿の作成が正常に完了しました。</string>
+    
+    <string name="post_fail_3147_title">作成に失敗し</string>
+    <string name="post_fail_3147">記事の作成中にエラーが発生しました。</string>
+
+    <string name="post_fail_3140_title">不明なエラー</string>
+    <string name="post_fail_3140">不明なエラーが発生しました。お客様センターにお問い合わせください。 (3140)</string>
+
+    <!-- Credit Strings -->
+
+    <string name="credit_plan">企画とデザイン</string>
+    <string name="credit_plan_content">ギムテイン（崇実学校のコンピュータ学部）</string>
+
+    <string name="credit_client_dev">クライアント開発者</string>
+    <string name="credit_client_dev_content">ギムテイン（崇実学校のコンピュータ学部）</string>
+
+    <string name="credit_webserver_dev">会員管理サーバの開発者</string>
+    <string name="credit_webserver_dev_content">イチェイル（ITスノーボール）</string>
+
+    <string name="credit_aiserver_dev">人工知能サーバ開発者</string>
+    <string name="credit_aiserver_dev_content">イソクチャン（崇実学校のコンピュータ学部）</string>
+
+    <string name="credit_producer">支援</string>
+    <string name="credit_producer_content">ギムドクギュ（ITスノーボール）</string>
+
+    <string name="credit_title">作成された人々</string>
+</resources>

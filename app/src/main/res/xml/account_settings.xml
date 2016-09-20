@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+        <Preference
+            android:summary="@string/setting_account_changeemail_summary"
+            android:title="@string/setting_account_changeemail" >
+            <intent
+                android:targetClass="com.itsnowball.aicomposer.MadeByActivity"
+                android:targetPackage="com.itsnowball.aicomposer" />
+        </Preference>
+
+        <Preference
+            android:summary="@string/setting_account_changenickname_summary"
+            android:title="@string/setting_account_changenickname" >
+                <intent
+                    android:targetClass="com.itsnowball.aicomposer.MadeByActivity"
+                    android:targetPackage="com.itsnowball.aicomposer" />
+        </Preference>
+
+        <Preference
+            android:title="@string/setting_account_deviceinfo">
+        </Preference>
+</PreferenceScreen>

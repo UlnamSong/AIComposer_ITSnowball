@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.itsnowball.aicomposer.WithdrawActivity"
+    android:background="@color/colorWhite">
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView6"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/account_del"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/account_del_msg"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/imageView6"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:textSize="15dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="135dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/account_del_stop"
+        android:id="@+id/textView10"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:background="#11aaaaaa"
+        android:textSize="13dp"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="@string/account_del_btn"
+        android:id="@+id/button2"
+        android:layout_below="@+id/textView10"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/account_del_shape"
+        android:textColor="@color/colorWhite"
+        android:textSize="15dp" />
+</RelativeLayout>

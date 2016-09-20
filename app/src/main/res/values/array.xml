@@ -1,0 +1,26 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <string-array name="music_theme">
+        <item>Before Sleeping</item>
+        <item>Travel</item>
+        <item>Depressed</item>
+        <item>Enjoy the party</item>
+        <item>Cheering Up</item>
+        <item>Loose</item>
+        <item>Studying</item>
+        <item>Driving</item>
+        <item>Immerses in thought</item>
+    </string-array>
+
+    <string-array name="music_genre">
+        <item>Pop</item>
+        <item>Hiphop</item>
+        <item>RnB</item>
+        <item>Electronic</item>
+        <item>Rock</item>
+        <item>Metal</item>
+        <item>Jazz</item>
+        <item>Classic</item>
+        <item>New age</item>
+    </string-array>
+</resources>

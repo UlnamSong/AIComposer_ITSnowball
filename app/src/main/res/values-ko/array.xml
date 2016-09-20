@@ -1,0 +1,26 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <string-array name="music_theme">
+        <item>잠자기 전</item>
+        <item>여행을 떠날 때</item>
+        <item>우울할 때</item>
+        <item>파티를 즐길 때</item>
+        <item>응원할 때</item>
+        <item>지루할 때</item>
+        <item>공부할 때</item>
+        <item>운전할 때</item>
+        <item>생각에 잠길 때</item>
+    </string-array>
+
+    <string-array name="music_genre">
+        <item>팝</item>
+        <item>힙합</item>
+        <item>알앤비</item>
+        <item>일렉트로닉</item>
+        <item>락</item>
+        <item>메탈</item>
+        <item>재즈</item>
+        <item>클래식</item>
+        <item>뉴에이지</item>
+    </string-array>
+</resources>

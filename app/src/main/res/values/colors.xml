@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4fb0d1</color>
+    <color name="colorPrimaryDark">#4fb0d1</color>
+    <color name="colorPrimaryDark2">#479ebb</color>
+
+    <color name="colorPrimaryDarkDark">#479ebb</color>
+
+    <color name="colorAccent">#4fb0d1</color>
+    <color name="colorAccent2">#06BC71</color>
+    <color name="colorAccentDark">#0A8150</color>
+
+    <color name="colorNaver">#2cc622</color>
+    <color name="colorKakaotalk">#FFEA21</color>
+    <color name="colorKakaotalkDark">#3F3035</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="textBlack">#000000</color>
+
+    <color name="floatingButton">#4fb0d1</color>
+    <color name="floatingButtonDark">#479eba</color>
+
+    <color name="floatingMenu1">#5a5b6d</color>
+    <color name="floatingMenu1Dark">#464753</color>
+
+    <color name="floatingMenu2">#FE7200</color>
+    <color name="floatingMenu2Dark">#d0650d</color>
+
+    <color name="beautiful_red">#FF5252</color>
+
+    <color name="floatingMenu3">#4DD0E1</color>
+    <color name="floatingMenu3Dark">#00BCD4</color>
+
+    <color name="list_download">#BDD9D8</color>
+    <color name="favorite_color">#CC47A2</color>
+
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="dialog_button">#4fb0d1</color>
+    <color name="dialog_title">#000000</color>
+</resources>

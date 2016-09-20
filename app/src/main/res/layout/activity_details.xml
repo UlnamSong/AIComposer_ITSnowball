@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.itsnowball.aicomposer.DetailsActivity"
+    android:background="@color/colorWhite">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView7"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/textView11"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+
+    <ListView
+        android:id="@+id/listview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView11"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sociallist_download"
+        android:drawableLeft="@drawable/details_download_white"
+        android:gravity="center_vertical|center_horizontal"
+        android:paddingLeft="100dp"
+        android:paddingRight="70dp"
+        android:id="@+id/details_downloadBtn"
+        android:layout_below="@+id/listview1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/normal_button_shape"
+        android:layout_margin="10dp"
+        android:textColor="#FFFFFFFF"
+        android:textSize="17dp" />
+
+</RelativeLayout>
